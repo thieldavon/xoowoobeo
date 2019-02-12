@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oowazoc.emk-complexity.org/sitemap.xml
